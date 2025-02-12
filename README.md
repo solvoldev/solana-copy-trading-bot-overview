@@ -1,36 +1,35 @@
-# Copy Trading on Solana: Why It's Better Than Regular Trading
 
-Buckle up! We're diving into the world of copy trading and explaining why it's way better than regular trading.
 
----
+<h1  align="center">  Copy Trading on Solana: Why It's Better Than Regular Trading </h1>
 
-## Pros of Copy Trading (Compared to Regular Trading on Solana)
+`Buckle up! We're diving into the world of copy trading and explaining why it's way better than regular trading.`
+
+![](files/line.gif)
+
+### Pros of Copy Trading
 
 - **Choose the most profitable wallets** in the entire blockchain to copy trades.
 - **No stress during trades**—the smart money does everything for you.
 - **No need to spend hours researching random projects.** It’s all about psychology and finding the right wallets for copy trading.
 - **Copy trades from an unlimited number of traders.**
 
----
-
-## Cons of Copy Trading
+### Cons of Copy Trading
 
 - *None mentioned.*
 
----
-
-## What You’ll Need
+![](files/line.gif)
+### What You’ll Need
 
 1. **Copy Trading Bot** (to execute copy trades).
 2. **Wallet Parser/Analyzer** (to find profitable wallets).
 3. **Token Monitoring Service/Terminal** (to track and analyze positions).
 4. **Wallet Tracker** (to monitor wallet transactions).
 
----
+![](files/line.gif)
 
-### 1. Copy Trading Bot
+### 1. Copy Trading Bot:
 
-**The best choice? SolVolume.**
+**The best choice? [SolVolume](https://linktr.ee/solvolumebot)**
 
 - **Get a license** (currently 10 SOL per month).
 - This is the **best bot for trading on Solana** (shoutout to the team, especially May, and everyone else involved).
@@ -46,23 +45,23 @@ Buckle up! We're diving into the world of copy trading and explaining why it's w
 
 ---
 
-### 2. Wallet Parser/Analyzer
+### 2. Wallet Parser/Analyzer:
 
-SolVolume has its **built-in solution** for finding wallets. You can do everything related to wallet search—start to finish.
+**[SolVolume](https://linktr.ee/solvolumebot)** has its **built-in solution** for finding wallets. You can do everything related to wallet search—start to finish.
 
 ---
 
-### 3. Token Monitoring Service
+### 3. Token Monitoring Service:
 
 - **Photon**: Monitor tokens, analyze holders, and see trades from Pump Fun.
 - **Dexscreener**: Another monitoring tool. Doesn’t show Pump Fun tokens before migration, but you can check the token’s cover (paid feature on Dexscreener).
-- **SolVolume**: View all tokens in positions, set buy/sell limits, and enjoy lightning-fast performance thanks to a custom node.
+- **[SolVolume](https://linktr.ee/solvolumebot)**: View all tokens in positions, set buy/sell limits, and enjoy lightning-fast performance thanks to a custom node.
 
 ---
 
-### 4. Wallet Tracker
+### 4. Wallet Tracker:
 
-Also available in **SolVolume**.
+Also available in **[SolVolume](https://linktr.ee/solvolumebot)**.
 
 - **Track all transactions** of the wallets you’re copying.
 - **Detailed information** about every trade.
@@ -107,7 +106,7 @@ The bot outputs an **Excel table** with wallets. Here’s how to use it:
 1. **Download the original Excel file.** Online versions of Excel won’t work correctly.
 2. Open the file, and you’ll see:
 
-*(Table)*
+![](https://github.com/user-attachments/assets/035c0af5-53c5-4545-a7f6-d7c9f459b5d8)
 
 **Columns in the table:**
 
@@ -131,7 +130,7 @@ The bot outputs an **Excel table** with wallets. Here’s how to use it:
 1. Click on a wallet to view all its trades (requires the original Excel file).
 2. You’ll see a detailed table:
 
-*(Table 2)*
+![Image](https://github.com/user-attachments/assets/b6e12bba-4350-4dd9-9b58-e8c81dc9d62f)
 
 - Use the **(PF) View** button to analyze trades on **Photon**.
 - If the wallet didn’t buy on Pump Fun, you’ll get a link to **Dexscreener**.
@@ -143,8 +142,8 @@ The bot outputs an **Excel table** with wallets. Here’s how to use it:
 
 ## Final Thoughts
 
-That’s a quick rundown of **SolVolume**. Right now, it’s the **best bot in terms of price and quality**.
+That’s a quick rundown of **[SolVolume](https://linktr.ee/solvolumebot)**. Right now, it’s the **best bot in terms of price and quality**.
 
-- **Free Trial**: SolVolume offers a **1-hour free version** with no restrictions. Try it before buying!
+- **Free Trial**: **[SolVolume](https://linktr.ee/solvolumebot)** offers a **1-hour free version** with no restrictions. Try it before buying!
 
-Good luck, and happy trading! 🚀
+`Good luck!`
