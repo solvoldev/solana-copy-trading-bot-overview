@@ -41,7 +41,7 @@
 - **Blazing-fast speed** (depends on the node, but SolVolume provides a free node that outperforms some paid ones).
 
 **Cons:**
-- None. Honestly, the price is a steal.
+- None. Honestly, the price is very underpriced.
 
 ---
 
