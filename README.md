@@ -29,7 +29,7 @@
 
 ### 1. Copy Trading Bot:
 
-**The best choice? [SolVolume](https://linktr.ee/solvolumebot)**
+**The best choice? [SolGod](https://linktr.ee/solvolumebot)**
 
 - **Get a license** (currently 10 SOL per month).
 - This is the **best bot for trading on Solana** (shoutout to the team, especially May, and everyone else involved).
@@ -47,7 +47,7 @@
 
 ### 2. Wallet Parser/Analyzer:
 
-**[SolVolume](https://linktr.ee/solvolumebot)** has its **built-in solution** for finding wallets. You can do everything related to wallet search—start to finish.
+**[SolGod](https://linktr.ee/solvolumebot)** has its **built-in solution** for finding wallets. You can do everything related to wallet search—start to finish.
 
 ---
 
@@ -55,13 +55,13 @@
 
 - **Photon**: Monitor tokens, analyze holders, and see trades from Pump Fun.
 - **Dexscreener**: Another monitoring tool. Doesn’t show Pump Fun tokens before migration, but you can check the token’s cover (paid feature on Dexscreener).
-- **[SolVolume](https://linktr.ee/solvolumebot)**: View all tokens in positions, set buy/sell limits, and enjoy lightning-fast performance thanks to a custom node.
+- **[SolGod](https://linktr.ee/solvolumebot)**: View all tokens in positions, set buy/sell limits, and enjoy lightning-fast performance thanks to a custom node.
 
 ---
 
 ### 4. Wallet Tracker:
 
-Also available in **[SolVolume](https://linktr.ee/solvolumebot)**.
+Also available in **[SolGod](https://linktr.ee/solvolumebot)**.
 
 - **Track all transactions** of the wallets you’re copying.
 - **Detailed information** about every trade.
@@ -142,8 +142,8 @@ The bot outputs an **Excel table** with wallets. Here’s how to use it:
 
 ## Final Thoughts
 
-That’s a quick rundown of **[SolVolume](https://linktr.ee/solvolumebot)**. Right now, it’s the **best bot in terms of price and quality**.
+That’s a quick rundown of **[SolGod](https://linktr.ee/solvolumebot)**. Right now, it’s the **best bot in terms of price and quality**.
 
-- **Free Trial**: **[SolVolume](https://linktr.ee/solvolumebot)** offers a **1-hour free version** with no restrictions. Try it before buying!
+- **Free Trial**: **[SolGod](https://linktr.ee/solvolumebot)** offers a **1-hour free version** with no restrictions. Try it before buying!
 
 `Good luck!`
