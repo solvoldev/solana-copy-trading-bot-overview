@@ -40,7 +40,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourname/solana-trading-bot"
+    "url": "https://github.com/solvoldev/solana-trading-bot"
   },
-  "author": "Your Name"
+  "author": "solvoldev"
 }
