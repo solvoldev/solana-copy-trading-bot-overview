@@ -1,0 +1,46 @@
+{
+  "name": "solana-trading-bot",
+  "version": "1.0.0",
+  "description": "Open-source Solana trading bot in TypeScript with Jupiter swaps, optional Jito bundle relay, and Twitter signal watcher. Supports Raydium/Orca/Meteora via Jupiter; Pump.fun/BonkFun discovery via Twitter feed. SEO: solana bot, pumpfun, bonkfun, raydium, meteora, orca, jupiter aggregator, bundle trading bot, token sniping, TypeScript.",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node src/index.ts",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.95.3",
+    "@solana/spl-token": "^0.4.6",
+    "bs58": "^5.0.0",
+    "commander": "^12.1.0",
+    "dotenv": "^16.4.5",
+    "twitter-api-v2": "^1.17.3",
+    "cross-fetch": "^4.0.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "keywords": [
+    "solana",
+    "trading-bot",
+    "pumpfun",
+    "bonkfun",
+    "raydium",
+    "meteora",
+    "orca",
+    "jupiter",
+    "bundle",
+    "jito",
+    "typescript",
+    "twitter-scraper",
+    "seo"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourname/solana-trading-bot"
+  },
+  "author": "Your Name"
+}
